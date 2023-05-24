@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm upasana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<p> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unigreet.com%2Fcute-cat-images-for-whatsapp-dp%2F&psig=AOvVaw1j_mW8ZjLgjKrGT-pZBaBl&ust=1685007761483000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIiQ9pzVjf8CFQAAAAAdAAAAABAD"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sana-bala&label=Profile%20views&color=0e75b6&style=flat" alt="sana-bala" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sana-bala" alt="sana-bala" /></a> </p>
